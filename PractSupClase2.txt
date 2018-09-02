@@ -1,0 +1,33 @@
+01/09	Traer 5 aplicaciones con 5 íconos y Splash Screens
+
+08/09 	Login de las 5 app (con lo que queramos, firebase, facebook, google...)
+
+15/09 	Splash screen animado + diseno de todas las app (Tipografia / estilos / colores)
+
+22/09 	Funcionalidad y pre entrega del parcial (aqui se deciden cuantas app se van a entregar)
+
+29/09 	Pre entrega: Se pone la nota
+
+06/10 	Parcial: Tienen que funcionar correctamente todas las app. Si hay error, estamos desaprobados
+
+13/10 	Recuperatorio, con suma de mas aplicaciones (ultima oportunidad para aprobar primer parcial. Despues tenemos el final, donde habría que entregar todas las app)
+
+20/10 	Formamos equipos.
+
+27/10 	Pre entrega 1 del final. Navegacion e interacción. Trabajar en equipo con integración en github
+
+03/11 	Testeo de la app. 
+
+10/11 	- Pre entrega 2. Github + app funcionando, testeada en los 3 celulares, cada uno logueado con un usuario distinto
+		- A cada miembro del equipo se le da un tema para el final. Del branch se saca un nuevo branch
+
+17/11 	Parcial: Tiene qeu funcionar. Si no funciona, recup
+
+24/11 	Correccion del final: Trabajo individual
+
+01/12 	Final
+
+
+
+
+
